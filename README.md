@@ -2,30 +2,20 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Microsoft Azure</b>   
+  - [Azure 101](https://github.com/Edwin-IT/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Edwin-IT/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Edwin-IT/configure-ad)
+- <b>DNS</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/Edwin-IT/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/Edwin-IT/Edwin-ITpost-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Edwin-IT/ticket-lifecycle)
+- <b>Network File Shares and Permissions</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Edwin-IT/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Edwin-IT/azure-network-protocols)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Edwin-IT/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Edwin-IT/Edwin-IT/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Edwin-IT/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Edwin-IT/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Edwin-IT/azure-network-protocols)
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/Edwin-IT/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Edwin-IT/Edwin-ITpost-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Edwin-IT/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Edwin-IT/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Edwin-IT/azure-network-protocols)
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/Edwin-IT/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Edwin-IT/Edwin-ITpost-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Edwin-IT/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Edwin-IT/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Edwin-IT/azure-network-protocols)
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/Edwin-IT/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Edwin-IT/Edwin-ITpost-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Edwin-IT/ticket-lifecycle)
 
 <h2>🤳Connect with me:</h2>
