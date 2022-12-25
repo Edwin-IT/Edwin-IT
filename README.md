@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Edwin-IT/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Edwin-IT/Edwin-ITpost-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/Edwin-IT/Edwin-IT/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Edwin-IT/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Edwin-IT/configure-ad)
