@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>   
-  - [Azure 101](https://github.com/Edwin-IT/configure-ad)
+  - [Azure Basics](https://github.com/Edwin-IT/azure-basics)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Edwin-IT/azure-network-protocols)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Edwin-IT/configure-ad)
 - <b>DNS</b>
