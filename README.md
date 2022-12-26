@@ -7,7 +7,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Edwin-IT/azure-network-protocols)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Edwin-IT/configure-ad)
 - <b>DNS</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/Edwin-IT/osticket-prereqs)
+  - [DNS: A-Record and CNAME Record](https://github.com/Edwin-IT/DNS)
 - <b>Network File Shares and Permissions</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Edwin-IT/configure-ad)
 - <b>osTicket (Help Desk Ticketing System)</b>
