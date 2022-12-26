@@ -9,7 +9,7 @@
 - <b>DNS</b>
   - [DNS: A-Record and CNAME Record](https://github.com/Edwin-IT/DNS)
 - <b>Network File Shares and Permissions</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Edwin-IT/configure-ad)
+  - [Network File Shares and Permissions](https://github.com/Edwin-IT/File-Shares)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Edwin-IT/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Edwin-IT/post-install-config)
