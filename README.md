@@ -1,6 +1,6 @@
-<h1>Hi, I'm Edwin, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, I'm Edwin, an <a href="https://www.linkedin.com/in/edwin-louissaint-a87620232/">IT Professional</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2> Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>   
   - [Azure Basics](https://github.com/Edwin-IT/azure-basics)
@@ -15,8 +15,8 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Edwin-IT/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Edwin-IT/ticket-lifecycle)
 
-<h2>🤳Connect with me:</h2>
+<h2>Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: https://www.linkedin.com/in/edwin-louissaint-a87620232/
